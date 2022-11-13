@@ -1,0 +1,7 @@
+a
+aa bb 1
+aaa bbb ccc
+aaaa bbbb cccc dddd
+aaaaa bbbbb ccccc ddddd eeeee
+aaaaaa bbbbbb cccccc dddddd eeeeee ffffff
+a b c d e
